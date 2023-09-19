@@ -4,3 +4,5 @@ This project builds upon a tutorial written by Matt Stewart from Grafana Labs.  
 Once setup, you'll need to build your own Grafana dashboard or you can use the JSON file found in this Github repository.  The JSON file leverages the geomap panel with Route (beta) to plot you're Tesla's position every 20 seconds.  Be sure to modify your prometheus.yml file from 120 seconds to 20 seconds.  Doing so will generate a better route map which especially useful on shorter drives.
 
 Enjoy!
+
+Shameless Plug: Sign up for access to Teslafi using this link: https://www.teslafi.com/signup.php?referred=bogdan
